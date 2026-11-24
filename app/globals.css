@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --kenya-green: #006600;
+  --kenya-red: #BB0000;
+  --kenya-black: #000000;
+}
